@@ -58,7 +58,7 @@ namespace Salvador_de_Senhas
             }
         }
 
-        private void BtnSalvar_Click(object sender, EventArgs e)
+        private void BtnCadastrar_Click(object sender, EventArgs e)
         {
             // Implemente a lógica para salvar as alterações no banco de dados
             // Aqui você precisa percorrer as linhas do DataGridView e atualizar os dados no banco de dados conforme necessário

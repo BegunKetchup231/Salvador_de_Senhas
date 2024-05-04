@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Wellden Moura\\Documents\\MeusProjetosGitHub\\Salvador_de_Senhas\\Salvador_de_Senhas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E24F4A0-06F9-4696-BDD8-D61840B34F4F}|Salvador_de_Senhas.csproj|c:\\users\\wellden moura\\documents\\meusprojetosgithub\\salvador_de_senhas\\salvador_de_senhas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E24F4A0-06F9-4696-BDD8-D61840B34F4F}|Salvador_de_Senhas.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E24F4A0-06F9-4696-BDD8-D61840B34F4F}|Salvador_de_Senhas.csproj|c:\\users\\wellden moura\\documents\\meusprojetosgithub\\salvador_de_senhas\\salvador_de_senhas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2E24F4A0-06F9-4696-BDD8-D61840B34F4F}|Salvador_de_Senhas.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E24F4A0-06F9-4696-BDD8-D61840B34F4F}|Salvador_de_Senhas.csproj|c:\\users\\wellden moura\\documents\\meusprojetosgithub\\salvador_de_senhas\\salvador_de_senhas\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E24F4A0-06F9-4696-BDD8-D61840B34F4F}|Salvador_de_Senhas.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E24F4A0-06F9-4696-BDD8-D61840B34F4F}|Salvador_de_Senhas.csproj|c:\\users\\wellden moura\\documents\\meusprojetosgithub\\salvador_de_senhas\\salvador_de_senhas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E24F4A0-06F9-4696-BDD8-D61840B34F4F}|Salvador_de_Senhas.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E24F4A0-06F9-4696-BDD8-D61840B34F4F}|Salvador_de_Senhas.csproj|c:\\users\\wellden moura\\documents\\meusprojetosgithub\\salvador_de_senhas\\salvador_de_senhas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wellden Moura\\Documents\\MeusProjetosGitHub\\Salvador_de_Senhas\\Salvador_de_Senhas\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Wellden Moura\\Documents\\MeusProjetosGitHub\\Salvador_de_Senhas\\Salvador_de_Senhas\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAADgv3IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:12:22.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Wellden Moura\\Documents\\MeusProjetosGitHub\\Salvador_de_Senhas\\Salvador_de_Senhas\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Wellden Moura\\Documents\\MeusProjetosGitHub\\Salvador_de_Senhas\\Salvador_de_Senhas\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -55,20 +72,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Wellden Moura\\Documents\\MeusProjetosGitHub\\Salvador_de_Senhas\\Salvador_de_Senhas\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\Wellden Moura\\Documents\\MeusProjetosGitHub\\Salvador_de_Senhas\\Salvador_de_Senhas\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAAAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAADgv0gAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T17:45:19.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Wellden Moura\\Documents\\MeusProjetosGitHub\\Salvador_de_Senhas\\Salvador_de_Senhas\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
